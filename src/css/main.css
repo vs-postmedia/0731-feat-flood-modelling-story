@@ -5,14 +5,20 @@
 }
 
 /* COLOURS */
-.blue-01 {
-	background-color: var(--blue01);
+.red-01 {
+	background-color: var(--red01);
 	border-radius: 2px;
 	color: #FFF;
 	padding: 1px 2px;
 }
 .green-01 {
 	background-color: var(--green01);
+	border-radius: 2px;
+	color: #FFF;
+	padding: 1px 2px;
+}
+.yellow-01 {
+	background-color: var(--yellow01);
 	border-radius: 2px;
 	color: #FFF;
 	padding: 1px 2px;

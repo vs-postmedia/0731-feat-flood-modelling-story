@@ -39,7 +39,10 @@
 #app .source,
 #app .credit {
 	color: var(--grey02);
-	font-size: 0.8rem;
+	font-family: BentonSansCond-Regular, Helvetica, sans-serif;
+	font-size: 0.9rem;
+	line-height: 1.2rem;
+	text-align: left;
 }
 
 #app .credit {
